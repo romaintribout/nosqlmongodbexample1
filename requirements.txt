@@ -1,2 +1,4 @@
 requests
 pymongo
+pymongo[srv]
+dnspython==2.0.0
